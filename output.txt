@@ -1,0 +1,1632 @@
+Episode = 1
+Opponent wins = 1
+Agent wins = 0
+
+Episode = 2
+Opponent wins = 2
+Agent wins = 0
+
+Episode = 3
+Opponent wins = 2
+Agent wins = 1
+
+Episode = 4
+Opponent wins = 2
+Agent wins = 2
+
+Episode = 5
+Opponent wins = 2
+Agent wins = 3
+
+Episode = 6
+Opponent wins = 2
+Agent wins = 4
+
+Episode = 7
+Opponent wins = 2
+Agent wins = 5
+
+Episode = 8
+Opponent wins = 2
+Agent wins = 6
+
+Episode = 9
+Opponent wins = 2
+Agent wins = 7
+
+Episode = 10
+Opponent wins = 2
+Agent wins = 8
+
+Episode = 11
+Opponent wins = 2
+Agent wins = 9
+
+Episode = 12
+Opponent wins = 2
+Agent wins = 10
+
+Episode = 13
+Opponent wins = 3
+Agent wins = 10
+
+Episode = 14
+Opponent wins = 3
+Agent wins = 11
+
+Episode = 15
+Opponent wins = 3
+Agent wins = 12
+
+Episode = 16
+Opponent wins = 3
+Agent wins = 13
+
+Episode = 17
+Opponent wins = 3
+Agent wins = 14
+
+Episode = 18
+Opponent wins = 3
+Agent wins = 15
+
+Episode = 19
+Opponent wins = 3
+Agent wins = 16
+
+Episode = 20
+Opponent wins = 3
+Agent wins = 17
+
+Episode = 21
+Opponent wins = 3
+Agent wins = 18
+
+Episode = 22
+Opponent wins = 4
+Agent wins = 18
+
+Episode = 23
+Opponent wins = 4
+Agent wins = 19
+
+Episode = 24
+Opponent wins = 4
+Agent wins = 20
+
+Episode = 25
+Opponent wins = 4
+Agent wins = 21
+
+Episode = 26
+Opponent wins = 4
+Agent wins = 22
+
+Episode = 27
+Opponent wins = 5
+Agent wins = 22
+
+Episode = 28
+Opponent wins = 5
+Agent wins = 23
+
+Episode = 29
+Opponent wins = 5
+Agent wins = 24
+
+Episode = 30
+Opponent wins = 5
+Agent wins = 25
+
+Episode = 31
+Opponent wins = 5
+Agent wins = 26
+
+Episode = 32
+Opponent wins = 5
+Agent wins = 27
+
+Episode = 33
+Opponent wins = 5
+Agent wins = 28
+
+Episode = 34
+Opponent wins = 5
+Agent wins = 29
+
+Episode = 35
+Opponent wins = 5
+Agent wins = 30
+
+Episode = 36
+Opponent wins = 5
+Agent wins = 31
+
+Episode = 37
+Opponent wins = 5
+Agent wins = 32
+
+Episode = 38
+Opponent wins = 5
+Agent wins = 33
+
+Episode = 39
+Opponent wins = 5
+Agent wins = 34
+
+Episode = 40
+Opponent wins = 5
+Agent wins = 35
+
+Episode = 41
+Opponent wins = 5
+Agent wins = 36
+
+Episode = 42
+Opponent wins = 5
+Agent wins = 37
+
+Episode = 43
+Opponent wins = 5
+Agent wins = 38
+
+Episode = 44
+Opponent wins = 5
+Agent wins = 39
+
+Episode = 45
+Opponent wins = 5
+Agent wins = 40
+
+Episode = 46
+Opponent wins = 5
+Agent wins = 41
+
+Episode = 47
+Opponent wins = 5
+Agent wins = 42
+
+Episode = 48
+Opponent wins = 5
+Agent wins = 43
+
+Episode = 49
+Opponent wins = 5
+Agent wins = 44
+
+Episode = 50
+Opponent wins = 5
+Agent wins = 45
+
+Episode = 51
+Opponent wins = 5
+Agent wins = 46
+
+Episode = 52
+Opponent wins = 5
+Agent wins = 47
+
+Episode = 53
+Opponent wins = 5
+Agent wins = 48
+
+Episode = 54
+Opponent wins = 5
+Agent wins = 49
+
+Episode = 55
+Opponent wins = 5
+Agent wins = 50
+
+Episode = 56
+Opponent wins = 5
+Agent wins = 51
+
+Episode = 57
+Opponent wins = 5
+Agent wins = 52
+
+Episode = 58
+Opponent wins = 5
+Agent wins = 53
+
+Episode = 59
+Opponent wins = 5
+Agent wins = 54
+
+Episode = 60
+Opponent wins = 5
+Agent wins = 55
+
+Episode = 61
+Opponent wins = 5
+Agent wins = 56
+
+Episode = 62
+Opponent wins = 5
+Agent wins = 57
+
+Episode = 63
+Opponent wins = 5
+Agent wins = 58
+
+Episode = 64
+Opponent wins = 5
+Agent wins = 59
+
+Episode = 65
+Opponent wins = 5
+Agent wins = 60
+
+Episode = 66
+Opponent wins = 5
+Agent wins = 61
+
+Episode = 67
+Opponent wins = 5
+Agent wins = 62
+
+Episode = 68
+Opponent wins = 5
+Agent wins = 63
+
+Episode = 69
+Opponent wins = 5
+Agent wins = 64
+
+Episode = 70
+Opponent wins = 5
+Agent wins = 65
+
+Episode = 71
+Opponent wins = 5
+Agent wins = 66
+
+Episode = 72
+Opponent wins = 5
+Agent wins = 67
+
+Episode = 73
+Opponent wins = 5
+Agent wins = 68
+
+Episode = 74
+Opponent wins = 5
+Agent wins = 69
+
+Episode = 75
+Opponent wins = 6
+Agent wins = 69
+
+Episode = 76
+Opponent wins = 6
+Agent wins = 70
+
+Episode = 77
+Opponent wins = 6
+Agent wins = 71
+
+Episode = 78
+Opponent wins = 7
+Agent wins = 71
+
+Episode = 79
+Opponent wins = 8
+Agent wins = 71
+
+Episode = 80
+Opponent wins = 8
+Agent wins = 72
+
+Episode = 81
+Opponent wins = 8
+Agent wins = 73
+
+Episode = 82
+Opponent wins = 8
+Agent wins = 74
+
+Episode = 83
+Opponent wins = 8
+Agent wins = 75
+
+Episode = 84
+Opponent wins = 8
+Agent wins = 76
+
+Episode = 85
+Opponent wins = 8
+Agent wins = 77
+
+Episode = 86
+Opponent wins = 8
+Agent wins = 78
+
+Episode = 87
+Opponent wins = 8
+Agent wins = 79
+
+Episode = 88
+Opponent wins = 8
+Agent wins = 80
+
+Episode = 89
+Opponent wins = 8
+Agent wins = 81
+
+Episode = 90
+Opponent wins = 8
+Agent wins = 82
+
+Episode = 91
+Opponent wins = 8
+Agent wins = 83
+
+Episode = 92
+Opponent wins = 8
+Agent wins = 84
+
+Episode = 93
+Opponent wins = 8
+Agent wins = 85
+
+Episode = 94
+Opponent wins = 8
+Agent wins = 86
+
+Episode = 95
+Opponent wins = 8
+Agent wins = 87
+
+Episode = 96
+Opponent wins = 8
+Agent wins = 88
+
+Episode = 97
+Opponent wins = 8
+Agent wins = 89
+
+Episode = 98
+Opponent wins = 8
+Agent wins = 90
+
+Episode = 99
+Opponent wins = 8
+Agent wins = 91
+
+Episode = 100
+Opponent wins = 8
+Agent wins = 92
+
+Episode = 101
+Opponent wins = 8
+Agent wins = 93
+
+Episode = 102
+Opponent wins = 8
+Agent wins = 94
+
+Episode = 103
+Opponent wins = 8
+Agent wins = 95
+
+Episode = 104
+Opponent wins = 8
+Agent wins = 96
+
+Episode = 105
+Opponent wins = 8
+Agent wins = 97
+
+Episode = 106
+Opponent wins = 8
+Agent wins = 98
+
+Episode = 107
+Opponent wins = 8
+Agent wins = 99
+
+Episode = 108
+Opponent wins = 8
+Agent wins = 100
+
+Episode = 109
+Opponent wins = 8
+Agent wins = 101
+
+Episode = 110
+Opponent wins = 8
+Agent wins = 102
+
+Episode = 111
+Opponent wins = 8
+Agent wins = 103
+
+Episode = 112
+Opponent wins = 8
+Agent wins = 104
+
+Episode = 113
+Opponent wins = 8
+Agent wins = 105
+
+Episode = 114
+Opponent wins = 8
+Agent wins = 106
+
+Episode = 115
+Opponent wins = 8
+Agent wins = 107
+
+Episode = 116
+Opponent wins = 8
+Agent wins = 108
+
+Episode = 117
+Opponent wins = 8
+Agent wins = 109
+
+Episode = 118
+Opponent wins = 8
+Agent wins = 110
+
+Episode = 119
+Opponent wins = 8
+Agent wins = 111
+
+Episode = 120
+Opponent wins = 8
+Agent wins = 112
+
+Episode = 121
+Opponent wins = 8
+Agent wins = 113
+
+Episode = 122
+Opponent wins = 8
+Agent wins = 114
+
+Episode = 123
+Opponent wins = 8
+Agent wins = 115
+
+Episode = 124
+Opponent wins = 8
+Agent wins = 116
+
+Episode = 125
+Opponent wins = 8
+Agent wins = 117
+
+Episode = 126
+Opponent wins = 8
+Agent wins = 118
+
+Episode = 127
+Opponent wins = 8
+Agent wins = 119
+
+Episode = 128
+Opponent wins = 8
+Agent wins = 120
+
+Episode = 129
+Opponent wins = 8
+Agent wins = 121
+
+Episode = 130
+Opponent wins = 8
+Agent wins = 122
+
+Episode = 131
+Opponent wins = 8
+Agent wins = 123
+
+Episode = 132
+Opponent wins = 8
+Agent wins = 124
+
+Episode = 133
+Opponent wins = 8
+Agent wins = 125
+
+Episode = 134
+Opponent wins = 8
+Agent wins = 126
+
+Episode = 135
+Opponent wins = 8
+Agent wins = 127
+
+Episode = 136
+Opponent wins = 8
+Agent wins = 128
+
+Episode = 137
+Opponent wins = 8
+Agent wins = 129
+
+Episode = 138
+Opponent wins = 8
+Agent wins = 130
+
+Episode = 139
+Opponent wins = 8
+Agent wins = 131
+
+Episode = 140
+Opponent wins = 8
+Agent wins = 132
+
+Episode = 141
+Opponent wins = 8
+Agent wins = 133
+
+Episode = 142
+Opponent wins = 8
+Agent wins = 134
+
+Episode = 143
+Opponent wins = 8
+Agent wins = 135
+
+Episode = 144
+Opponent wins = 8
+Agent wins = 136
+
+Episode = 145
+Opponent wins = 8
+Agent wins = 137
+
+Episode = 146
+Opponent wins = 8
+Agent wins = 138
+
+Episode = 147
+Opponent wins = 8
+Agent wins = 139
+
+Episode = 148
+Opponent wins = 8
+Agent wins = 140
+
+Episode = 149
+Opponent wins = 8
+Agent wins = 141
+
+Episode = 150
+Opponent wins = 8
+Agent wins = 142
+
+Episode = 151
+Opponent wins = 8
+Agent wins = 143
+
+Episode = 152
+Opponent wins = 8
+Agent wins = 144
+
+Episode = 153
+Opponent wins = 8
+Agent wins = 145
+
+Episode = 154
+Opponent wins = 8
+Agent wins = 146
+
+Episode = 155
+Opponent wins = 8
+Agent wins = 147
+
+Episode = 156
+Opponent wins = 8
+Agent wins = 148
+
+Episode = 157
+Opponent wins = 8
+Agent wins = 149
+
+Episode = 158
+Opponent wins = 8
+Agent wins = 150
+
+Episode = 159
+Opponent wins = 8
+Agent wins = 151
+
+Episode = 160
+Opponent wins = 8
+Agent wins = 152
+
+Episode = 161
+Opponent wins = 8
+Agent wins = 153
+
+Episode = 162
+Opponent wins = 8
+Agent wins = 154
+
+Episode = 163
+Opponent wins = 8
+Agent wins = 155
+
+Episode = 164
+Opponent wins = 8
+Agent wins = 156
+
+Episode = 165
+Opponent wins = 8
+Agent wins = 157
+
+Episode = 166
+Opponent wins = 8
+Agent wins = 158
+
+Episode = 167
+Opponent wins = 8
+Agent wins = 159
+
+Episode = 168
+Opponent wins = 8
+Agent wins = 160
+
+Episode = 169
+Opponent wins = 8
+Agent wins = 161
+
+Episode = 170
+Opponent wins = 8
+Agent wins = 162
+
+Episode = 171
+Opponent wins = 8
+Agent wins = 163
+
+Episode = 172
+Opponent wins = 8
+Agent wins = 164
+
+Episode = 173
+Opponent wins = 8
+Agent wins = 165
+
+Episode = 174
+Opponent wins = 8
+Agent wins = 166
+
+Episode = 175
+Opponent wins = 8
+Agent wins = 167
+
+Episode = 176
+Opponent wins = 8
+Agent wins = 168
+
+Episode = 177
+Opponent wins = 8
+Agent wins = 169
+
+Episode = 178
+Opponent wins = 8
+Agent wins = 170
+
+Episode = 179
+Opponent wins = 8
+Agent wins = 171
+
+Episode = 180
+Opponent wins = 8
+Agent wins = 172
+
+Episode = 181
+Opponent wins = 8
+Agent wins = 173
+
+Episode = 182
+Opponent wins = 8
+Agent wins = 174
+
+Episode = 183
+Opponent wins = 8
+Agent wins = 175
+
+Episode = 184
+Opponent wins = 8
+Agent wins = 176
+
+Episode = 185
+Opponent wins = 8
+Agent wins = 177
+
+Episode = 186
+Opponent wins = 8
+Agent wins = 178
+
+Episode = 187
+Opponent wins = 8
+Agent wins = 179
+
+Episode = 188
+Opponent wins = 8
+Agent wins = 180
+
+Episode = 189
+Opponent wins = 8
+Agent wins = 181
+
+Episode = 190
+Opponent wins = 8
+Agent wins = 182
+
+Episode = 191
+Opponent wins = 8
+Agent wins = 183
+
+Episode = 192
+Opponent wins = 8
+Agent wins = 184
+
+Episode = 193
+Opponent wins = 8
+Agent wins = 185
+
+Episode = 194
+Opponent wins = 8
+Agent wins = 186
+
+Episode = 195
+Opponent wins = 8
+Agent wins = 187
+
+Episode = 196
+Opponent wins = 8
+Agent wins = 188
+
+Episode = 197
+Opponent wins = 8
+Agent wins = 189
+
+Episode = 198
+Opponent wins = 8
+Agent wins = 190
+
+Episode = 199
+Opponent wins = 8
+Agent wins = 191
+
+Episode = 200
+Opponent wins = 8
+Agent wins = 192
+
+Episode = 201
+Opponent wins = 8
+Agent wins = 193
+
+Episode = 202
+Opponent wins = 8
+Agent wins = 194
+
+Episode = 203
+Opponent wins = 8
+Agent wins = 195
+
+Episode = 204
+Opponent wins = 8
+Agent wins = 196
+
+Episode = 205
+Opponent wins = 8
+Agent wins = 197
+
+Episode = 206
+Opponent wins = 8
+Agent wins = 198
+
+Episode = 207
+Opponent wins = 8
+Agent wins = 199
+
+Episode = 208
+Opponent wins = 8
+Agent wins = 200
+
+Episode = 209
+Opponent wins = 8
+Agent wins = 201
+
+Episode = 210
+Opponent wins = 8
+Agent wins = 202
+
+Episode = 211
+Opponent wins = 8
+Agent wins = 203
+
+Episode = 212
+Opponent wins = 8
+Agent wins = 204
+
+Episode = 213
+Opponent wins = 8
+Agent wins = 205
+
+Episode = 214
+Opponent wins = 8
+Agent wins = 206
+
+Episode = 215
+Opponent wins = 8
+Agent wins = 207
+
+Episode = 216
+Opponent wins = 8
+Agent wins = 208
+
+Episode = 217
+Opponent wins = 8
+Agent wins = 209
+
+Episode = 218
+Opponent wins = 9
+Agent wins = 209
+
+Episode = 219
+Opponent wins = 9
+Agent wins = 210
+
+Episode = 220
+Opponent wins = 9
+Agent wins = 211
+
+Episode = 221
+Opponent wins = 9
+Agent wins = 212
+
+Episode = 222
+Opponent wins = 9
+Agent wins = 213
+
+Episode = 223
+Opponent wins = 9
+Agent wins = 214
+
+Episode = 224
+Opponent wins = 9
+Agent wins = 215
+
+Episode = 225
+Opponent wins = 9
+Agent wins = 216
+
+Episode = 226
+Opponent wins = 9
+Agent wins = 217
+
+Episode = 227
+Opponent wins = 9
+Agent wins = 218
+
+Episode = 228
+Opponent wins = 9
+Agent wins = 219
+
+Episode = 229
+Opponent wins = 9
+Agent wins = 220
+
+Episode = 230
+Opponent wins = 9
+Agent wins = 221
+
+Episode = 231
+Opponent wins = 9
+Agent wins = 222
+
+Episode = 232
+Opponent wins = 9
+Agent wins = 223
+
+Episode = 233
+Opponent wins = 9
+Agent wins = 224
+
+Episode = 234
+Opponent wins = 9
+Agent wins = 225
+
+Episode = 235
+Opponent wins = 9
+Agent wins = 226
+
+Episode = 236
+Opponent wins = 9
+Agent wins = 227
+
+Episode = 237
+Opponent wins = 9
+Agent wins = 228
+
+Episode = 238
+Opponent wins = 9
+Agent wins = 229
+
+Episode = 239
+Opponent wins = 9
+Agent wins = 230
+
+Episode = 240
+Opponent wins = 9
+Agent wins = 231
+
+Episode = 241
+Opponent wins = 9
+Agent wins = 232
+
+Episode = 242
+Opponent wins = 9
+Agent wins = 233
+
+Episode = 243
+Opponent wins = 10
+Agent wins = 233
+
+Episode = 244
+Opponent wins = 10
+Agent wins = 234
+
+Episode = 245
+Opponent wins = 10
+Agent wins = 235
+
+Episode = 246
+Opponent wins = 10
+Agent wins = 236
+
+Episode = 247
+Opponent wins = 10
+Agent wins = 237
+
+Episode = 248
+Opponent wins = 10
+Agent wins = 238
+
+Episode = 249
+Opponent wins = 10
+Agent wins = 239
+
+Episode = 250
+Opponent wins = 10
+Agent wins = 240
+
+Episode = 251
+Opponent wins = 10
+Agent wins = 241
+
+Episode = 252
+Opponent wins = 10
+Agent wins = 242
+
+Episode = 253
+Opponent wins = 10
+Agent wins = 243
+
+Episode = 254
+Opponent wins = 10
+Agent wins = 244
+
+Episode = 255
+Opponent wins = 10
+Agent wins = 245
+
+Episode = 256
+Opponent wins = 10
+Agent wins = 246
+
+Episode = 257
+Opponent wins = 10
+Agent wins = 247
+
+Episode = 258
+Opponent wins = 10
+Agent wins = 248
+
+Episode = 259
+Opponent wins = 10
+Agent wins = 249
+
+Episode = 260
+Opponent wins = 10
+Agent wins = 250
+
+Episode = 261
+Opponent wins = 10
+Agent wins = 251
+
+Episode = 262
+Opponent wins = 10
+Agent wins = 252
+
+Episode = 263
+Opponent wins = 10
+Agent wins = 253
+
+Episode = 264
+Opponent wins = 10
+Agent wins = 254
+
+Episode = 265
+Opponent wins = 10
+Agent wins = 255
+
+Episode = 266
+Opponent wins = 10
+Agent wins = 256
+
+Episode = 267
+Opponent wins = 10
+Agent wins = 257
+
+Episode = 268
+Opponent wins = 10
+Agent wins = 258
+
+Episode = 269
+Opponent wins = 10
+Agent wins = 259
+
+Episode = 270
+Opponent wins = 10
+Agent wins = 260
+
+Episode = 271
+Opponent wins = 10
+Agent wins = 261
+
+Episode = 272
+Opponent wins = 10
+Agent wins = 262
+
+Episode = 273
+Opponent wins = 10
+Agent wins = 263
+
+Episode = 274
+Opponent wins = 10
+Agent wins = 264
+
+Episode = 275
+Opponent wins = 10
+Agent wins = 265
+
+Episode = 276
+Opponent wins = 10
+Agent wins = 266
+
+Episode = 277
+Opponent wins = 10
+Agent wins = 267
+
+Episode = 278
+Opponent wins = 10
+Agent wins = 268
+
+Episode = 279
+Opponent wins = 10
+Agent wins = 269
+
+Episode = 280
+Opponent wins = 10
+Agent wins = 270
+
+Episode = 281
+Opponent wins = 10
+Agent wins = 271
+
+Episode = 282
+Opponent wins = 10
+Agent wins = 272
+
+Episode = 283
+Opponent wins = 10
+Agent wins = 273
+
+Episode = 284
+Opponent wins = 10
+Agent wins = 274
+
+Episode = 285
+Opponent wins = 10
+Agent wins = 275
+
+Episode = 286
+Opponent wins = 10
+Agent wins = 276
+
+Episode = 287
+Opponent wins = 10
+Agent wins = 277
+
+Episode = 288
+Opponent wins = 10
+Agent wins = 278
+
+Episode = 289
+Opponent wins = 10
+Agent wins = 279
+
+Episode = 290
+Opponent wins = 10
+Agent wins = 280
+
+Episode = 291
+Opponent wins = 10
+Agent wins = 281
+
+Episode = 292
+Opponent wins = 10
+Agent wins = 282
+
+Episode = 293
+Opponent wins = 10
+Agent wins = 283
+
+Episode = 294
+Opponent wins = 10
+Agent wins = 284
+
+Episode = 295
+Opponent wins = 10
+Agent wins = 285
+
+Episode = 296
+Opponent wins = 10
+Agent wins = 286
+
+Episode = 297
+Opponent wins = 10
+Agent wins = 287
+
+Episode = 298
+Opponent wins = 10
+Agent wins = 288
+
+Episode = 299
+Opponent wins = 10
+Agent wins = 289
+
+Episode = 300
+Opponent wins = 10
+Agent wins = 290
+
+Episode = 301
+Opponent wins = 10
+Agent wins = 291
+
+Episode = 302
+Opponent wins = 10
+Agent wins = 292
+
+Episode = 303
+Opponent wins = 10
+Agent wins = 293
+
+Episode = 304
+Opponent wins = 10
+Agent wins = 294
+
+Episode = 305
+Opponent wins = 10
+Agent wins = 295
+
+Episode = 306
+Opponent wins = 10
+Agent wins = 296
+
+Episode = 307
+Opponent wins = 10
+Agent wins = 297
+
+Episode = 308
+Opponent wins = 10
+Agent wins = 298
+
+Episode = 309
+Opponent wins = 10
+Agent wins = 299
+
+Episode = 310
+Opponent wins = 10
+Agent wins = 300
+
+Episode = 311
+Opponent wins = 10
+Agent wins = 301
+
+Episode = 312
+Opponent wins = 10
+Agent wins = 302
+
+Episode = 313
+Opponent wins = 10
+Agent wins = 303
+
+Episode = 314
+Opponent wins = 10
+Agent wins = 304
+
+Episode = 315
+Opponent wins = 10
+Agent wins = 305
+
+Episode = 316
+Opponent wins = 10
+Agent wins = 306
+
+Episode = 317
+Opponent wins = 10
+Agent wins = 307
+
+Episode = 318
+Opponent wins = 10
+Agent wins = 308
+
+Episode = 319
+Opponent wins = 10
+Agent wins = 309
+
+Episode = 320
+Opponent wins = 10
+Agent wins = 310
+
+Episode = 321
+Opponent wins = 10
+Agent wins = 311
+
+Episode = 322
+Opponent wins = 10
+Agent wins = 312
+
+Episode = 323
+Opponent wins = 10
+Agent wins = 313
+
+Episode = 324
+Opponent wins = 10
+Agent wins = 314
+
+Episode = 325
+Opponent wins = 10
+Agent wins = 315
+
+Episode = 326
+Opponent wins = 10
+Agent wins = 316
+
+Episode = 327
+Opponent wins = 10
+Agent wins = 317
+
+Episode = 328
+Opponent wins = 10
+Agent wins = 318
+
+Episode = 329
+Opponent wins = 10
+Agent wins = 319
+
+Episode = 330
+Opponent wins = 10
+Agent wins = 320
+
+Episode = 331
+Opponent wins = 10
+Agent wins = 321
+
+Episode = 332
+Opponent wins = 10
+Agent wins = 322
+
+Episode = 333
+Opponent wins = 10
+Agent wins = 323
+
+Episode = 334
+Opponent wins = 10
+Agent wins = 324
+
+Episode = 335
+Opponent wins = 10
+Agent wins = 325
+
+Episode = 336
+Opponent wins = 10
+Agent wins = 326
+
+Episode = 337
+Opponent wins = 10
+Agent wins = 327
+
+Episode = 338
+Opponent wins = 10
+Agent wins = 328
+
+Episode = 339
+Opponent wins = 10
+Agent wins = 329
+
+Episode = 340
+Opponent wins = 10
+Agent wins = 330
+
+Episode = 341
+Opponent wins = 10
+Agent wins = 331
+
+Episode = 342
+Opponent wins = 10
+Agent wins = 332
+
+Episode = 343
+Opponent wins = 10
+Agent wins = 333
+
+Episode = 344
+Opponent wins = 10
+Agent wins = 334
+
+Episode = 345
+Opponent wins = 10
+Agent wins = 335
+
+Episode = 346
+Opponent wins = 10
+Agent wins = 336
+
+Episode = 347
+Opponent wins = 10
+Agent wins = 337
+
+Episode = 348
+Opponent wins = 11
+Agent wins = 337
+
+Episode = 349
+Opponent wins = 11
+Agent wins = 338
+
+Episode = 350
+Opponent wins = 11
+Agent wins = 339
+
+Episode = 351
+Opponent wins = 11
+Agent wins = 340
+
+Episode = 352
+Opponent wins = 11
+Agent wins = 341
+
+Episode = 353
+Opponent wins = 11
+Agent wins = 342
+
+Episode = 354
+Opponent wins = 11
+Agent wins = 343
+
+Episode = 355
+Opponent wins = 11
+Agent wins = 344
+
+Episode = 356
+Opponent wins = 11
+Agent wins = 345
+
+Episode = 357
+Opponent wins = 11
+Agent wins = 346
+
+Episode = 358
+Opponent wins = 11
+Agent wins = 347
+
+Episode = 359
+Opponent wins = 11
+Agent wins = 348
+
+Episode = 360
+Opponent wins = 11
+Agent wins = 349
+
+Episode = 361
+Opponent wins = 11
+Agent wins = 350
+
+Episode = 362
+Opponent wins = 11
+Agent wins = 351
+
+Episode = 363
+Opponent wins = 11
+Agent wins = 352
+
+Episode = 364
+Opponent wins = 11
+Agent wins = 353
+
+Episode = 365
+Opponent wins = 11
+Agent wins = 354
+
+Episode = 366
+Opponent wins = 11
+Agent wins = 355
+
+Episode = 367
+Opponent wins = 11
+Agent wins = 356
+
+Episode = 368
+Opponent wins = 11
+Agent wins = 357
+
+Episode = 369
+Opponent wins = 11
+Agent wins = 358
+
+Episode = 370
+Opponent wins = 11
+Agent wins = 359
+
+Episode = 371
+Opponent wins = 11
+Agent wins = 360
+
+Episode = 372
+Opponent wins = 11
+Agent wins = 361
+
+Episode = 373
+Opponent wins = 11
+Agent wins = 362
+
+Episode = 374
+Opponent wins = 11
+Agent wins = 363
+
+Episode = 375
+Opponent wins = 11
+Agent wins = 364
+
+Episode = 376
+Opponent wins = 11
+Agent wins = 365
+
+Episode = 377
+Opponent wins = 11
+Agent wins = 366
+
+Episode = 378
+Opponent wins = 11
+Agent wins = 367
+
+Episode = 379
+Opponent wins = 11
+Agent wins = 368
+
+Episode = 380
+Opponent wins = 11
+Agent wins = 369
+
+Episode = 381
+Opponent wins = 11
+Agent wins = 370
+
+Episode = 382
+Opponent wins = 11
+Agent wins = 371
+
+Episode = 383
+Opponent wins = 11
+Agent wins = 372
+
+Episode = 384
+Opponent wins = 11
+Agent wins = 373
+
+Episode = 385
+Opponent wins = 11
+Agent wins = 374
+
+Episode = 386
+Opponent wins = 11
+Agent wins = 375
+
+Episode = 387
+Opponent wins = 11
+Agent wins = 376
+
+Episode = 388
+Opponent wins = 11
+Agent wins = 377
+
+Episode = 389
+Opponent wins = 11
+Agent wins = 378
+
+Episode = 390
+Opponent wins = 11
+Agent wins = 379
+
+Episode = 391
+Opponent wins = 11
+Agent wins = 380
+
+Episode = 392
+Opponent wins = 11
+Agent wins = 381
+
+Episode = 393
+Opponent wins = 11
+Agent wins = 382
+
+Episode = 394
+Opponent wins = 11
+Agent wins = 383
+
+Episode = 395
+Opponent wins = 11
+Agent wins = 384
+
+Episode = 396
+Opponent wins = 11
+Agent wins = 385
+
+Episode = 397
+Opponent wins = 11
+Agent wins = 386
+
+Episode = 398
+Opponent wins = 11
+Agent wins = 387
+
+Episode = 399
+Opponent wins = 11
+Agent wins = 388
+
+Episode = 400
+Opponent wins = 11
+Agent wins = 389
+
+Episode = 401
+Opponent wins = 11
+Agent wins = 390
+
+Episode = 402
+Opponent wins = 11
+Agent wins = 391
+
+Episode = 403
+Opponent wins = 11
+Agent wins = 392
+
+Episode = 404
+Opponent wins = 11
+Agent wins = 393
+
+Episode = 405
+Opponent wins = 11
+Agent wins = 394
+
+Episode = 406
+Opponent wins = 11
+Agent wins = 395
+
+Episode = 407
+Opponent wins = 11
+Agent wins = 396
+
+Episode = 408
+Opponent wins = 11
+Agent wins = 397
+
